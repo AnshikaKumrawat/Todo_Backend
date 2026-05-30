@@ -32,7 +32,7 @@ src/main/java
 
 ├── entity
 
-│ └── Todo.java
+│ └── TodoDTO.java
 
 ├── repository
 
