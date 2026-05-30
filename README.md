@@ -1,4 +1,4 @@
-# To-Do List Backend API
+# To-Do List Backend 
 
 A RESTful To-Do List Backend application built using Spring Boot, Spring Data JPA, MySQL, and Lombok. This project provides CRUD operations for managing tasks.
 
